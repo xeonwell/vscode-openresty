@@ -3,7 +3,14 @@
     "fileTypes": [
         "conf",
         "nginx",
-        "nginx.conf"
+        "nginx.conf",
+        "mime.type",
+        "fastcgi_params",
+        "proxy_params",
+        "scgi_params",
+        "uwsgi_params",
+        "fastcgi-php.conf",
+        "fastcgi.conf"
     ],
     "foldingStartMarker": "\\{\\s*$",
     "foldingStopMarker": "^\\s*\\}",
