@@ -2,7 +2,15 @@
     "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
     "fileTypes": [
         "conf",
-        "nginx"
+        "nginx",
+        "nginx.conf",
+        "mime.type",
+        "fastcgi_params",
+        "proxy_params",
+        "scgi_params",
+        "uwsgi_params",
+        "fastcgi-php.conf",
+        "fastcgi.conf"
     ],
     "foldingStartMarker": "\\{\\s*$",
     "foldingStopMarker": "^\\s*\\}",
