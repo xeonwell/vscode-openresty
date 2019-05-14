@@ -9,7 +9,7 @@ Ported from [shanoor/vscode-nginx][shanoor].
 
 This extension is published on the [VSCode marketplace][marketplace].
 
-[<img alt="NGINX logo" align="right" src="nginx_logo.png">][marketplace]
+[<img alt="NGINX logo" align="right" src="https://raw.githubusercontent.com/william-voyek/vscode-nginx/master/nginx_logo.png">][marketplace]
 Launch Code's [command palette] (<kbd>Ctrl</kbd>+<kbd>P</kbd>) and type:
 
     ext install vscode-nginx

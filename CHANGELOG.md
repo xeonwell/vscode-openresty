@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.7.1] - 2019-05-14
+
+### Added
+
+@virgilwashere
+
+- MIT license
+- File association for `nginx.conf` 
+- File associations for Nginx include files:
+    `mime.type`
+    `fastcgi_params`
+    `proxy_params`
+    `scgi_params`
+    `uwsgi_params`
+    `fastcgi-php.conf`
+    `fastcgi.conf`
+
+### Changed
+
+@virgilwashere
+
+- Updated README.md
+
 ## [0.7.0] - 2019-03-15
 
 ### Added
