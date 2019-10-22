@@ -2,7 +2,7 @@
     "name": "vscode-nginx",
     "displayName": "NGINX Configuration",
     "description": "Syntax highlighting for NGINX configuration files",
-    "version": "0.7.1",
+    "version": "0.7.2",
     "publisher": "william-voyek",
     "engines": {
         "vscode": "^1.32.0"
@@ -27,7 +27,7 @@
                     ".conf",
                     ".nginx"
                 ],
-                "configuration": "./language-configuration.json"
+                "configuration": "./nginx.configuration.json"
             }
         ],
         "grammars": [
