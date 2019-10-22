@@ -23,7 +23,7 @@
             "include": "#strings"
         },
         {
-            "match": "\\#.*",
+            "match": "^(\\s)*(#).*$\\n?",
             "name": "comment"
         },
         {
